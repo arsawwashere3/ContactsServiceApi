@@ -1,0 +1,11 @@
+E:\Evolvent\ContactsService\ContactsService\bin\Debug\netcoreapp2.0\ContactsService.deps.json
+E:\Evolvent\ContactsService\ContactsService\bin\Debug\netcoreapp2.0\ContactsService.runtimeconfig.json
+E:\Evolvent\ContactsService\ContactsService\bin\Debug\netcoreapp2.0\ContactsService.runtimeconfig.dev.json
+E:\Evolvent\ContactsService\ContactsService\bin\Debug\netcoreapp2.0\ContactsService.dll
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.csproj.CoreCompileInputs.cache
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.AssemblyInfoInputs.cache
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.AssemblyInfo.cs
+E:\Evolvent\ContactsService\ContactsService\bin\Debug\netcoreapp2.0\ContactsService.pdb
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.dll
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.pdb
+E:\Evolvent\ContactsService\ContactsService\obj\Debug\netcoreapp2.0\ContactsService.csprojAssemblyReference.cache
